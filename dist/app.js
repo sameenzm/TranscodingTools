@@ -1,0 +1,1 @@
+"use strict";var odds=evens.map(function(e){return e+1});

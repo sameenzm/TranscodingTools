@@ -1,0 +1,1 @@
+"use strict";var a=2,b=-1,c=2;b>a&&(0>b?c=0:c+=1);
